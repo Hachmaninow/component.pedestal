@@ -1,13 +1,23 @@
-## Incomplete work
+# Introduction
 
-This is an incomplete draft, left here for reference.
+I liked the idea of using Stuart Sierra's great Component library for Pedestal applications.
+Fortunately I found this: https://github.com/stuartsierra/component.pedestal
 
-Feel free to examine it for ideas,
-but do not expect to use it as-is.
+With this I was nearly there, but exactly as advertised it did not work "as is"...
 
-Please do not send pull requests or issues to this repository.
+But as I could fix the remaining issues quite easily and the original author did not seem
+to have the time to take ownership I forked the original repository...
+
+Mainly I provided some scaffolding to be able to release the functionality as a library.
+
+Apart from this I fixed one or two minor issues I had when integrating that with the
+Pedestal version I am using.
+
+Ah... and I changed the namespace because it felt a little weird not to match the library
+artifact in any way ;-).
 
 
+# Origin
 
 ## Copyright and license
 
